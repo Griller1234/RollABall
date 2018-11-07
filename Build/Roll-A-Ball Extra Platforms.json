@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roll-A-Ball Extra Platforms",
+"dataUrl": "Roll-A-Ball Extra Platforms.data.unityweb",
+"wasmCodeUrl": "Roll-A-Ball Extra Platforms.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll-A-Ball Extra Platforms.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
